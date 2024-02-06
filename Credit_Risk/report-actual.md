@@ -7,7 +7,7 @@ In this analysis, I aimed to build a machine learning model to predict credit ri
 
 ## Results
 
-Using bulleted lists, we summarize the balanced accuracy scores and the precision and recall scores of both machine learning models:
+Using bulleted lists, summarize the balanced accuracy scores and the precision and recall scores of both machine learning models:
 
 * Machine Learning Model 1 (Original Data):
   * Balanced Accuracy Score: 0.952
